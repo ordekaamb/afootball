@@ -15,3 +15,4 @@ Bu klasör, ücretsiz Cloudflare Worker + D1 altyapısıdır. Firebase Google ot
 ## Güvenlik notu
 
 Tarayıcı, Worker'a Firebase Google kimlik belirteci gönderir. Worker, Google'ın imzaladığı belirteci doğrulamadan hiçbir coin işlemini yapmaz. Kod kullanımı ve beş dakikalık ödül D1'de hesap başına tutulur; sayfayı yenilemek veya tarayıcı verisini değiştirmek yeni coin oluşturmaz.
+.
